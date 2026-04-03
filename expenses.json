@@ -1,0 +1,98 @@
+[
+    {
+        "amount": 500.0,
+        "category": "food"
+    },
+    {
+        "amount": 500.0,
+        "category": "food"
+    },
+    {
+        "amount": 500.0,
+        "category": "travel"
+    },
+    {
+        "amount": 500.0,
+        "category": "internet"
+    },
+    {
+        "amount": 50.0,
+        "category": "travel"
+    },
+    {
+        "amount": 300.0,
+        "category": "shopping"
+    },
+    {
+        "amount": 100.0,
+        "category": "shopping"
+    },
+    {
+        "amount": 600.0,
+        "category": "travel"
+    },
+    {
+        "amount": 900.0,
+        "category": "internet"
+    },
+    {
+        "amount": 600.0,
+        "category": "travel",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 900.0,
+        "category": "food",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 700.0,
+        "category": "internet",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 100.0,
+        "category": "food",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 500.0,
+        "category": "shopping",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 700.0,
+        "category": "food",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 300.0,
+        "category": "shopping",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 1000.0,
+        "category": "travel",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 100.0,
+        "category": "ppl",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 1000.0,
+        "category": "shop",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 5000.0,
+        "category": "grocery",
+        "date": "2026-04-02"
+    },
+    {
+        "amount": 500.0,
+        "category": "study",
+        "date": "2026-04-02"
+    }
+]
